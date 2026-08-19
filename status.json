@@ -12,16 +12,19 @@
         "ja": "PaperVN Today",
         "ko": "PaperVN Today"
       },
-      "status": "available",
-      "impact": "none",
+      "status": "outage",
+      "impact": "partial",
       "description": {
-        "default": "",
+        "default": "中国大陆用户目前在使用此服务时可能遇到无法载入问题。",
         "zh-Hans": "",
         "zh-Hant": "",
         "en": "",
         "ja": "",
         "ko": ""
-      }
+      },
+      "startAt": "2026-09-01",
+      "endAt": 2026-09-05,
+      "timePrecision": "date"
     },
     {
       "id": "paperVNConnect",
@@ -33,8 +36,8 @@
         "ja": "PaperVN Connect",
         "ko": "PaperVN Connect"
       },
-      "status": "available",
-      "impact": "none",
+      "status": "outage",
+      "impact": "all",
       "description": {
         "default": "",
         "zh-Hans": "",
@@ -43,6 +46,9 @@
         "ja": "",
         "ko": ""
       }
+      "startAt": "2026-09-01",
+      "endAt": 2026-09-05,
+      "timePrecision": "date"
     },
     {
       "id": "paperVNFeedback",
@@ -54,8 +60,8 @@
         "ja": "PaperVNフィードバック",
         "ko": "PaperVN 피드백"
       },
-      "status": "available",
-      "impact": "none",
+      "status": "outage",
+      "impact": "all",
       "description": {
         "default": "",
         "zh-Hans": "",
@@ -64,6 +70,9 @@
         "ja": "",
         "ko": ""
       }
+      "startAt": "2026-09-01",
+      "endAt": 2026-09-05,
+      "timePrecision": "date"
     },
     {
       "id": "paperVNSupport",
@@ -75,8 +84,8 @@
         "ja": "Paperサポート",
         "ko": "Paper 지원"
       },
-      "status": "available",
-      "impact": "none",
+      "status": "outage",
+      "impact": "all",
       "description": {
         "default": "",
         "zh-Hans": "",
@@ -85,6 +94,9 @@
         "ja": "",
         "ko": ""
       }
+      "startAt": "2026-09-01",
+      "endAt": 2026-09-05,
+      "timePrecision": "date"
     }
   ]
 }

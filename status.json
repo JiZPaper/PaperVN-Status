@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-20T00:00:00+08:00",
+  "services": [
+    {
+      "id": "paperVNToday",
+      "name": {
+        "default": "PaperVN Today",
+        "zh-Hans": "PaperVN Today",
+        "zh-Hant": "PaperVN Today",
+        "en": "PaperVN Today",
+        "ja": "PaperVN Today",
+        "ko": "PaperVN Today"
+      },
+      "status": "available",
+      "impact": "none",
+      "description": {
+        "default": "",
+        "zh-Hans": "",
+        "zh-Hant": "",
+        "en": "",
+        "ja": "",
+        "ko": ""
+      }
+    },
+    {
+      "id": "paperVNConnect",
+      "name": {
+        "default": "PaperVN Connect",
+        "zh-Hans": "PaperVN Connect",
+        "zh-Hant": "PaperVN Connect",
+        "en": "PaperVN Connect",
+        "ja": "PaperVN Connect",
+        "ko": "PaperVN Connect"
+      },
+      "status": "available",
+      "impact": "none",
+      "description": {
+        "default": "",
+        "zh-Hans": "",
+        "zh-Hant": "",
+        "en": "",
+        "ja": "",
+        "ko": ""
+      }
+    },
+    {
+      "id": "paperVNFeedback",
+      "name": {
+        "default": "PaperVN反馈",
+        "zh-Hans": "PaperVN反馈",
+        "zh-Hant": "PaperVN反饋",
+        "en": "PaperVN Feedback",
+        "ja": "PaperVNフィードバック",
+        "ko": "PaperVN 피드백"
+      },
+      "status": "available",
+      "impact": "none",
+      "description": {
+        "default": "",
+        "zh-Hans": "",
+        "zh-Hant": "",
+        "en": "",
+        "ja": "",
+        "ko": ""
+      }
+    },
+    {
+      "id": "paperVNSupport",
+      "name": {
+        "default": "Paper支持",
+        "zh-Hans": "Paper支持",
+        "zh-Hant": "Paper支援",
+        "en": "Paper Support",
+        "ja": "Paperサポート",
+        "ko": "Paper 지원"
+      },
+      "status": "available",
+      "impact": "none",
+      "description": {
+        "default": "",
+        "zh-Hans": "",
+        "zh-Hant": "",
+        "en": "",
+        "ja": "",
+        "ko": ""
+      }
+    }
+  ]
+}

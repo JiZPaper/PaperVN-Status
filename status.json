@@ -23,7 +23,7 @@
         "ko": ""
       },
       "startAt": "2026-09-01",
-      "endAt": 2026-09-05,
+      "endAt": "2026-09-05",
       "timePrecision": "date"
     },
     {
@@ -45,9 +45,9 @@
         "en": "",
         "ja": "",
         "ko": ""
-      }
+      },
       "startAt": "2026-09-01",
-      "endAt": 2026-09-05,
+      "endAt": "2026-09-05",
       "timePrecision": "date"
     },
     {
@@ -69,9 +69,9 @@
         "en": "",
         "ja": "",
         "ko": ""
-      }
+      },
       "startAt": "2026-09-01",
-      "endAt": 2026-09-05,
+      "endAt": "2026-09-05",
       "timePrecision": "date"
     },
     {
@@ -93,9 +93,9 @@
         "en": "",
         "ja": "",
         "ko": ""
-      }
+      },
       "startAt": "2026-09-01",
-      "endAt": 2026-09-05,
+      "endAt": "2026-09-05",
       "timePrecision": "date"
     }
   ]

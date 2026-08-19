@@ -16,11 +16,11 @@
       "impact": "partial",
       "description": {
         "default": "中国大陆用户目前在使用此服务时可能遇到无法载入问题。",
-        "zh-Hans": "",
-        "zh-Hant": "",
-        "en": "",
-        "ja": "",
-        "ko": ""
+        "zh-Hans": "中国大陆用户目前在使用此服务时可能遇到无法载入问题。",
+        "zh-Hant": "中國大陸使用者目前使用此服務時可能會遇到無法載入的問題。",
+        "en": "Users in mainland China may currently encounter loading issues when using this service.",
+        "ja": "中国本土のユーザーは現在、このサービスの利用時に読み込めない問題が発生する可能性があります。",
+        "ko": "중국 본토 사용자는 현재 이 서비스를 이용할 때 로드되지 않는 문제를 겪을 수 있습니다."
       },
       "startAt": "2026-09-01",
       "endAt": "2026-09-05",

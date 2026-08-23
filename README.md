@@ -15,7 +15,7 @@ PaperVN Status 是 PaperVN 系列服务的公开状态数据仓库。PaperVN App
 
 ## 自动检测
 
-Worker 使用 `*/5 * * * *` 定时任务访问：
+Worker 使用 `* * * * *` 定时任务（每分钟一次）访问：
 
 - `https://papervn.jizpaper.com/connect`
 - `https://papervn.jizpaper.com/feedback/`

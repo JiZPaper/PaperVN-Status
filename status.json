@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T00:00:00+08:00",
+  "updatedAt": "2026-08-24T01:22:41+08:00",
   "services": [
     {
       "id": "paperVNToday",
@@ -12,19 +12,43 @@
         "ja": "PaperVN Today",
         "ko": "PaperVN Today"
       },
-      "status": "outage",
+      "status": "issue",
       "impact": "partial",
       "description": {
-        "default": "中国大陆用户目前在使用此服务时可能遇到无法载入问题。",
-        "zh-Hans": "中国大陆用户目前在使用此服务时可能遇到无法载入问题。",
+        "default": "中国大陆用户目前在使用此服务时可能遇到无法载入的问题。",
+        "zh-Hans": "中国大陆用户目前在使用此服务时可能遇到无法载入的问题。",
         "zh-Hant": "中國大陸使用者目前使用此服務時可能會遇到無法載入的問題。",
         "en": "Users in mainland China may currently encounter loading issues when using this service.",
         "ja": "中国本土のユーザーは現在、このサービスの利用時に読み込めない問題が発生する可能性があります。",
         "ko": "중국 본토 사용자는 현재 이 서비스를 이용할 때 로드되지 않는 문제를 겪을 수 있습니다."
       },
-      "startAt": "2026-09-01",
-      "endAt": "2026-09-05",
-      "timePrecision": "date"
+      "startAt": "2026-08-24T01:22:41+08:00",
+      "endAt": null,
+      "timePrecision": "datetime"
+    },
+    {
+      "id": "paperVNActivity",
+      "name": {
+        "default": "PaperVN活动",
+        "zh-Hans": "PaperVN活动",
+        "zh-Hant": "PaperVN活動",
+        "en": "PaperVN Events",
+        "ja": "PaperVNイベント",
+        "ko": "PaperVN 이벤트"
+      },
+      "status": "issue",
+      "impact": "partial",
+      "description": {
+        "default": "中国大陆用户目前在使用此服务时可能遇到无法载入的问题。",
+        "zh-Hans": "中国大陆用户目前在使用此服务时可能遇到无法载入的问题。",
+        "zh-Hant": "中國大陸使用者目前使用此服務時可能會遇到無法載入的問題。",
+        "en": "Users in mainland China may currently encounter loading issues when using this service.",
+        "ja": "中国本土のユーザーは現在、このサービスの利用時に読み込めない問題が発生する可能性があります。",
+        "ko": "중국 본토 사용자는 현재 이 서비스를 이용할 때 로드되지 않는 문제를 겪을 수 있습니다."
+      },
+      "startAt": "2026-08-24T01:22:41+08:00",
+      "endAt": null,
+      "timePrecision": "datetime"
     },
     {
       "id": "paperVNConnect",
@@ -38,17 +62,10 @@
       },
       "status": "outage",
       "impact": "all",
-      "description": {
-        "default": "",
-        "zh-Hans": "",
-        "zh-Hant": "",
-        "en": "",
-        "ja": "",
-        "ko": ""
-      },
-      "startAt": "2026-09-01",
-      "endAt": "2026-09-05",
-      "timePrecision": "date"
+      "description": null,
+      "startAt": "2026-08-24T01:22:41+08:00",
+      "endAt": null,
+      "timePrecision": "datetime"
     },
     {
       "id": "paperVNFeedback",
@@ -62,41 +79,10 @@
       },
       "status": "outage",
       "impact": "all",
-      "description": {
-        "default": "",
-        "zh-Hans": "",
-        "zh-Hant": "",
-        "en": "",
-        "ja": "",
-        "ko": ""
-      },
-      "startAt": "2026-09-01",
-      "endAt": "2026-09-05",
-      "timePrecision": "date"
-    },
-    {
-      "id": "paperVNSupport",
-      "name": {
-        "default": "Paper支持",
-        "zh-Hans": "Paper支持",
-        "zh-Hant": "Paper支援",
-        "en": "Paper Support",
-        "ja": "Paperサポート",
-        "ko": "Paper 지원"
-      },
-      "status": "outage",
-      "impact": "all",
-      "description": {
-        "default": "",
-        "zh-Hans": "",
-        "zh-Hant": "",
-        "en": "",
-        "ja": "",
-        "ko": ""
-      },
-      "startAt": "2026-09-01",
-      "endAt": "2026-09-05",
-      "timePrecision": "date"
+      "description": null,
+      "startAt": "2026-08-24T01:22:41+08:00",
+      "endAt": null,
+      "timePrecision": "datetime"
     }
   ]
 }

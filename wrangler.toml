@@ -1,0 +1,17 @@
+name = "papervn-status"
+main = "src/index.ts"
+compatibility_date = "2026-08-24"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[[kv_namespaces]]
+binding = "STATUS_KV"
+# Replace this with the namespace ID created with `wrangler kv namespace create STATUS_KV`.
+id = "cd8beb721488434eb2324273b804a17f"
+
+[vars]
+GITHUB_REPOSITORY = "JiZPaper/PaperVN-Status"
+GITHUB_BRANCH = "main"
+GITHUB_STATUS_PATH = "status.json"
+STATUS_RAW_URL = "https://raw.githubusercontent.com/JiZPaper/PaperVN-Status/main/status.json"

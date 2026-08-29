@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T08:46:17.000Z",
+  "updatedAt": "2026-08-29T15:22:09.000Z",
   "services": [
     {
       "id": "paperVNToday",
@@ -32,12 +32,12 @@
       "status": "issue",
       "impact": "all",
       "description": {
-        "default": "用户目前在使用此服务时可能看到过时的活动。",
-        "zh-Hans": "用户目前在使用此服务时可能看到过时的活动。",
-        "zh-Hant": "使用此服務時，目前可能會看到過時的活動。",
-        "en": "Users may currently see outdated events when using this service.",
-        "ja": "現在、このサービスを利用すると古いイベントが表示される可能性があります。",
-        "ko": "현재 이 서비스를 사용하는 동안 오래된 이벤트가 표시될 수 있습니다."
+        "default": "数据集已超过7天未更新。",
+        "zh-Hans": "数据集已超过7天未更新。",
+        "zh-Hant": "資料集已超過7天未更新。",
+        "en": "The dataset has not been updated for over 7 days.",
+        "ja": "データセットは7日以上更新されていません。",
+        "ko": "데이터 세트가 7일 넘게 업데이트되지 않았습니다."
       },
       "startAt": "2026-08-24",
       "endAt": null,

@@ -1,13 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-26T12:21:28+08:00",
+  "updatedAt": "2026-09-26T12:23:41+08:00",
   "services": [
     {
       "id": "paperVNToday",
       "name": "PaperVN Today",
       "status": "outage",
       "impact": "partial",
-      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "description": {
+        "default": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hans": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hant": "請在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "en": "Please update to version 1.7.2 Beta 2 (1.7.260924) or later before October 1.",
+        "ja": "10月1日までに1.7.2 Beta 2（1.7.260924）以降のバージョンにアップデートしてください。",
+        "ko": "10월 1일 전에 1.7.2 Beta 2(1.7.260924) 이상 버전으로 업데이트해 주세요."
+      },
       "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"
@@ -34,7 +41,14 @@
       "name": "PaperVN Connect",
       "status": "outage",
       "impact": "partial",
-      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "description": {
+        "default": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hans": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hant": "請在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "en": "Please update to version 1.7.2 Beta 2 (1.7.260924) or later before October 1.",
+        "ja": "10月1日までに1.7.2 Beta 2（1.7.260924）以降のバージョンにアップデートしてください。",
+        "ko": "10월 1일 전에 1.7.2 Beta 2(1.7.260924) 이상 버전으로 업데이트해 주세요."
+      },
       "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"
@@ -51,7 +65,14 @@
       },
       "status": "outage",
       "impact": "partial",
-      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "description": {
+        "default": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hans": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "zh-Hant": "請在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+        "en": "Please update to version 1.7.2 Beta 2 (1.7.260924) or later before October 1.",
+        "ja": "10月1日までに1.7.2 Beta 2（1.7.260924）以降のバージョンにアップデートしてください。",
+        "ko": "10월 1일 전에 1.7.2 Beta 2(1.7.260924) 이상 버전으로 업데이트해 주세요."
+      },
       "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"

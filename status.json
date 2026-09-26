@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-26T12:12:09+08:00",
+  "updatedAt": "2026-09-26T12:21:28+08:00",
   "services": [
     {
       "id": "paperVNToday",
@@ -8,7 +8,7 @@
       "status": "outage",
       "impact": "partial",
       "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
-      "startAt": "2026-10-01",
+      "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"
     },
@@ -35,7 +35,7 @@
       "status": "outage",
       "impact": "partial",
       "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
-      "startAt": "2026-10-01",
+      "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"
     },
@@ -52,7 +52,7 @@
       "status": "outage",
       "impact": "partial",
       "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
-      "startAt": "2026-10-01",
+      "startAt": "2026-09-29",
       "endAt": null,
       "timePrecision": "date"
     }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T19:48:37+08:00",
+  "updatedAt": "2026-09-26T12:12:09+08:00",
   "services": [
     {
       "id": "paperVNToday",
       "name": "PaperVN Today",
-      "status": "available",
-      "impact": "none",
-      "description": null,
-      "startAt": null,
+      "status": "outage",
+      "impact": "partial",
+      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "startAt": "2026-10-01",
       "endAt": null,
-      "timePrecision": null
+      "timePrecision": "date"
     },
     {
       "id": "paperVNActivity",
@@ -32,12 +32,12 @@
     {
       "id": "paperVNConnect",
       "name": "PaperVN Connect",
-      "status": "available",
-      "impact": "none",
-      "description": null,
-      "startAt": null,
+      "status": "outage",
+      "impact": "partial",
+      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "startAt": "2026-10-01",
       "endAt": null,
-      "timePrecision": null
+      "timePrecision": "date"
     },
     {
       "id": "paperVNFeedback",
@@ -49,12 +49,12 @@
         "ja": "PaperVNフィードバック",
         "ko": "PaperVN 피드백"
       },
-      "status": "available",
-      "impact": "none",
-      "description": null,
-      "startAt": null,
+      "status": "outage",
+      "impact": "partial",
+      "description": "请在10月1日前更新至1.7.2 Beta 2（1.7.260924）或更新版本。",
+      "startAt": "2026-10-01",
       "endAt": null,
-      "timePrecision": null
+      "timePrecision": "date"
     }
   ]
 }
